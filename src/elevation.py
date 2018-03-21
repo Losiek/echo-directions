@@ -1,1 +1,1 @@
-/home/alek/Sandbox/echo-directions/google-maps/googlemaps/elevation.py
+../google-maps/googlemaps/elevation.py

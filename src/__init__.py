@@ -1,1 +1,1 @@
-/home/alek/Sandbox/echo-directions/google-maps/googlemaps/__init__.py
+../google-maps/googlemaps/__init__.py

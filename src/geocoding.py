@@ -1,1 +1,1 @@
-/home/alek/Sandbox/echo-directions/google-maps/googlemaps/geocoding.py
+../google-maps/googlemaps/geocoding.py

@@ -1,1 +1,1 @@
-/home/alek/Sandbox/echo-directions/google-maps/googlemaps/exceptions.py
+../google-maps/googlemaps/exceptions.py

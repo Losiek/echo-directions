@@ -1,1 +1,1 @@
-/home/alek/Sandbox/echo-directions/google-maps/googlemaps/places.py
+../google-maps/googlemaps/places.py
