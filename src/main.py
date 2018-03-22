@@ -1,6 +1,7 @@
 # This is main file of program echo-directions
 from client import Client
 from directions import directions
+from simple_web_server import run_server
 import json
 
 def load_settings(settings_file):
@@ -25,3 +26,11 @@ if __name__ == "__main__":
 
     parsed = json.loads(json.dumps(rsp, sort_keys=False, indent=4))[0]
     print(json.dumps(parsed, sort_keys=False, indent=4))
+
+    # Run server
+    from sys import argv
+
+    if len(argv) == 2:
+        run_server(port=int(argv[1]))
+    else:
+        run_server()
